@@ -13,6 +13,7 @@
 		BB12FF00283AA864004659CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB12FEFE283AA864004659CB /* Main.storyboard */; };
 		BB12FF02283AA866004659CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB12FF01283AA866004659CB /* Assets.xcassets */; };
 		BB12FF05283AA866004659CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB12FF03283AA866004659CB /* LaunchScreen.storyboard */; };
+		BB12FF0D283AAD7D004659CB /* BezierTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB12FF0C283AAD7D004659CB /* BezierTimer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BB12FF01283AA866004659CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB12FF04283AA866004659CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BB12FF06283AA866004659CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB12FF0C283AAD7D004659CB /* BezierTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BezierTimer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				BB12FEF8283AA864004659CB /* AppDelegate.swift */,
 				BB12FEFA283AA864004659CB /* SceneDelegate.swift */,
 				BB12FEFC283AA864004659CB /* ViewController.swift */,
+				BB12FF0C283AAD7D004659CB /* BezierTimer.swift */,
 				BB12FEFE283AA864004659CB /* Main.storyboard */,
 				BB12FF01283AA866004659CB /* Assets.xcassets */,
 				BB12FF03283AA866004659CB /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				BB12FEFD283AA864004659CB /* ViewController.swift in Sources */,
 				BB12FEF9283AA864004659CB /* AppDelegate.swift in Sources */,
+				BB12FF0D283AAD7D004659CB /* BezierTimer.swift in Sources */,
 				BB12FEFB283AA864004659CB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
